@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "ij3n-com",
+    "name": "ij3n.com",
+    "category": "Premium / Abstract",
+    "description": "A rare 4-character domain with the silent power of an elephant. Unmistakable. Unforgettable.",
+    "image": "/images/domains/ij3n.jpg",
+    "price": 100000,
+    "status": "available",
+    "animal": "elephant",
+    "tags": ["brand", "premium", "4-char"]
+  },
+  {
+    "slug": "5i3ns-com",
+    "name": "5i3ns.com",
+    "category": "Power / Authority",
+    "description": "The domain carries the authority of a lion. Built for brands that lead.",
+    "image": "/images/domains/5i3ns.jpg",
+    "price": 80000,
+    "status": "available",
+    "animal": "lion",
+    "tags": ["brand", "power", "5-char"]
+  },
+  {
+    "slug": "7iqr-com",
+    "name": "7iqr.com",
+    "category": "Agile / Vision",
+    "description": "Precise and graceful. Like a pelican in flight — built for navigation.",
+    "image": "/images/domains/7iqr.jpg",
+    "price": 80000,
+    "status": "available",
+    "animal": "pelican",
+    "tags": ["brand", "agile", "4-char"]
+  }
+]
